@@ -1,0 +1,15 @@
+invoice_number,1
+date,2025-08-31 23:41:13
+customer_name,
+
+code,name,price,qty,total
+C250,Coffee (250ml),30.00,1,30.00
+PASTA,Pasta,200.00,1,200.00
+T250,Tea (250ml),20.00,1,20.00
+
+subtotal,250.00
+gst_percent,18.0
+gst_total,45.00
+cgst,22.50
+sgst,22.50
+grand_total,295.00
